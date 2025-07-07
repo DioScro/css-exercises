@@ -1,0 +1,16 @@
+.impar {
+    background-color: rgb(209, 132, 145);
+    font-family: "Verdana", "DejaVu Sans", "sans-serif";
+}
+#azul {
+    color: rgb(0, 0, 235);
+    font-size: 36px;
+}    
+.fonte,
+#verde {
+    font-size: 24px;
+}
+#verde {
+    background-color: rgb(70, 190, 70);
+    font-weight: bold;
+}
